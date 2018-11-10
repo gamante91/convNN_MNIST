@@ -20,8 +20,8 @@ output layer:
 
 Choiche of hyper parameters:
 
-Learning Rate: 0.001
-Loss function: Cross Entropy Loss
-Optimizer: Stochastic Gradient Descent
+- Learning Rate: 0.001
+- Loss function: Cross Entropy Loss
+- Optimizer: Stochastic Gradient Descent
 
 After being trained, the Neural Network reached an accuracy on the 10000 test images of 99.09%
